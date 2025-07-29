@@ -11,3 +11,4 @@ vim.opt.hidden = true
 vim.opt.termguicolors = true
 vim.opt.splitbelow = true
 vim.opt.splitright = true
+vim.o.foldenable = false -- disable folding on file open
